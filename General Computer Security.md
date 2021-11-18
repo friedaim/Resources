@@ -11,7 +11,7 @@
 - [Hack All The Things Intro](http://howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html)
 - [Azeria Labs](https://azeria-labs.com/azm/)
 - [0x00 Rev Eng Forum](https://0x00sec.org/)
-- 
+- [Regex 101](https://regex101.com/)
 
 ### Malware Analysis
 - [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
