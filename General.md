@@ -1,6 +1,6 @@
 # General Resources (not computer-related)
 
-### Logos
+### Icons
 - [TheNounProject](https://thenounproject.com/)
 - [CSS.GG](https://css.gg/)
 - [IconDuck](https://iconduck.com/)
